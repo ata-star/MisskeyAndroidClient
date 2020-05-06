@@ -16,7 +16,7 @@
         <item name="colorAccent">@color/colorDarkAccent</item>
         <item name="colorOnSurface">?android:attr/textColorPrimary</item>
 
-        <item name="actionBarSize">53dp</item>
+        <item name="actionBarSize">50dp</item>
 
         <item name="colorNormalReactionCounterBackground">@color/colorNormalReaction</item>
         <item name="colorSelectedReactionCounterBackground">@color/colorSelectedReaction</item>
@@ -57,7 +57,7 @@ x
         <item name="colorBottomNavigationSelected">@color/colorDarkBottomNavSelected</item>
         <item name="colorBottomNavigationNotSelect">@color/colorDarkBottomNavNormal</item>
         <item name="colorNoteActionButtonTint">@color/colorDarkTextColor</item>
-        <item name="actionBarSize">53dp</item>
+        <item name="actionBarSize">50dp</item>
 
         <item name="colorNormalReactionCounterBackground">@color/colorNormalReaction</item>
         <item name="colorSelectedReactionCounterBackground">@color/colorSelectedReaction</item>

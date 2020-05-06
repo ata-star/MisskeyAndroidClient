@@ -68,7 +68,7 @@
                 app:itemTextColor="@drawable/bottom_navigation_colors"
                 app:labelVisibilityMode="unlabeled"
                 app:menu="@menu/bottom_menu"
-                app:itemIconSize="28dp"
+                app:itemIconSize="26dp"
                 >
 
 
